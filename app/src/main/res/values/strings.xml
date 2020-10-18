@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Semana 4</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="PNombre">Maite Navratil</string>
+    <string name="PTelefono">093508808</string>
+    <string name="PGmail">maite.navratil@gmail.com</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_contacto">Contacto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
